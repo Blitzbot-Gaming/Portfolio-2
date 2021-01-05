@@ -1,0 +1,22 @@
+H1{
+  color: brown;
+  text-align: center;
+ }
+
+.header{
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.socials{
+    display: flex;
+    justify-content: flex-end;
+}
+p,H2{
+    text-align: center;
+}
